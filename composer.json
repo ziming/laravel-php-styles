@@ -1,0 +1,13 @@
+{
+  "name": "ziming/php-laravel-styles",
+  "description": "Shared PHP Laravel style rules for PHP-CS-Fixer",
+  "require": {
+    "php": "^7.4",
+    "friendsofphp/php-cs-fixer": "^2.0"
+  },
+  "autoload": {
+    "files": [
+      "./src/helpers.php"
+    ]
+  }
+}
